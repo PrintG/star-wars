@@ -10,7 +10,7 @@ require.config({
 require(["swiper"], function(swiper){
 	//swiper
 	var mainSwiper = new Swiper("#main-swiper", {
-		autoplay : 5000,
+		autoplay : 20000,
 		autoplayDisableOnInteraction : false,
 		//button
 		prevButton : ".swiper-button-prev",
