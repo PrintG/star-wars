@@ -5,10 +5,9 @@
 require.config({
     paths : {
     	"swiper" : "./lib/swiper-3.4.2.min"
-    },
-    waitSeconds : 30
+    }
 });
-require(["swiper"], function(swiper){
+require(["swiper"], function(){
 	//swiper
 	var mainSwiper = new Swiper("#main-swiper", {
 		autoplay : 20000,
