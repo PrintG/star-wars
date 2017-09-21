@@ -5,17 +5,10 @@ html,body{
 	background-color: #000;
 }
 body{
-<<<<<<< HEAD
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-=======
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
->>>>>>> 20951c321eed18ad0ba69c046210a8e923f487b2
 }
 
 /* define font */
@@ -99,12 +92,8 @@ section,nav,div,a,p,span,i,hgroup,h1,h2,h3,h4,h5,h6{
 	width: 100%;
 	height: 100%;
 	background: #ccc no-repeat center;
-<<<<<<< HEAD
 	-webkit-filter: blur(8px);
 	filter: blur(8px);
-=======
-	filter: opacity(1) blur(8px);
->>>>>>> 20951c321eed18ad0ba69c046210a8e923f487b2
 }
 #main-swiper .swiper-wrapper .swiper-slide:nth-child(1) .swiper-slide-wrap .slide-wrap-mask{
 	background-image: url('../img/bg1.jpg');
@@ -166,8 +155,3 @@ section,nav,div,a,p,span,i,hgroup,h1,h2,h3,h4,h5,h6{
 		margin-bottom: 8px;
 	}
 }
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 20951c321eed18ad0ba69c046210a8e923f487b2
