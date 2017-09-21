@@ -5,8 +5,7 @@
 require.config({
     paths : {
     	"swiper" : "./lib/swiper-3.4.2.min"
-    },
-    waitSeconds: 0
+    }
 });
 require(["swiper"], function(swiper){
 	//swiper
